@@ -29,11 +29,11 @@ A ideia foi aplicar **Análise de Dados com Excel e Power BI** para transformar 
 ### Planilha Excel do Elenco
 ![Dashboard Excel](img/excel.png)
 
-## 🚀 Próximos passos
+## Próximos passos
 - Adicionar novas temporadas para análise histórica.  
 - Comparar desempenho em diferentes competições.  
 - Expandir para análise financeira (custo de transferências x desempenho).  
 
-## ✨ Autor
+## Autor
 André Ricardo Gonçalves da Silva  
 [LinkedIn](https://www.linkedin.com/in/andrericardogdasilva) | [GitHub](https://github.com/dedz-jpg)
