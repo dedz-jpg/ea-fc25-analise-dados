@@ -24,7 +24,7 @@ A ideia foi aplicar **Análise de Dados com Excel e Power BI** para transformar 
 ## Dashboards (Power BI)
 
 ### Estatísticas dos jogadores
-![Dashboard Jogadores](img/dashboard.png)
+![Dashboard Jogadores](img/imagem_2025-09-12_163912282.png)
 
 ### Planilha Excel do Elenco
 ![Dashboard Excel](img/excel.png)
